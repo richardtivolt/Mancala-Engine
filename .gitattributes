@@ -1,0 +1,5 @@
+# Ignore TextMesh Pro files in language stats
+*.shader linguist-detectable=false
+*.compute linguist-detectable=false
+*.hlsl linguist-detectable=false
+*.cginc linguist-detectable=false
